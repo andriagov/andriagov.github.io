@@ -1,0 +1,67 @@
+
+html {
+  background-color: hsl(292, 97%, 88%, 0.2);
+}
+.nav__link {
+  background-color: rgb(255, 144, 236);
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin: 5px;
+  border: 5px solid rgb(253, 143, 211);
+}
+
+.contact-button {
+  background-color: rgb(255, 174, 241);
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin: 5px;
+  border: 5px solid rgb(253, 143, 211);
+}
+
+.cds {
+  display: flex;
+  justify-content: center;
+}
+
+.britney {
+  display: inline-block;
+  /* margin-left: auto;
+  margin-right: auto; */
+  width: 25%;
+  margin: 1px;
+}
+
+/* .britney {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  border-radius: 50%;
+  margin: 25px;
+} */
+
+.xtinalink {
+  width: 250px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.xtina {
+  /* display: block; */
+  /* margin-left: auto;
+  margin-right: auto; */
+  width: 250px;
+}
