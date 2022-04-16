@@ -29,13 +29,6 @@ h1 {
   text-align: center;
 }
 
-.centre {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-}
-
 .kimpossible {
   padding: 15px;
   margin: 25px;
@@ -44,7 +37,7 @@ h1 {
 .para {
     text-align: justify;
     display: inline-block;
-    background-color: rgb(246, 184, 252);
+    background-color: rgb(245, 213, 248);
     width: 25%;
     padding-top: 5px;
     padding-bottom: 5px;
